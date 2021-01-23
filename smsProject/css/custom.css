@@ -1,0 +1,26 @@
+.sms {
+	margin: 0px;
+	background-color: cornflowerblue;
+	color: white;
+}
+
+.admin {
+	align: right;
+	padding-right:50px; 
+	margin: 0px;
+}
+
+a {
+	text-decoration-color: none;
+}
+
+table {
+	border: 2px solid #63328b3b;
+	border-collapse: collapse;
+	width: 35%;
+}
+
+td {
+	text-align: center;
+	padding: 10px;
+}
